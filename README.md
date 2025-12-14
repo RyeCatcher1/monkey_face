@@ -1,5 +1,7 @@
 Monkey matcher.
 
+(Python 3.11 is recommended)
+
 A small personal project to match a human face with a monkey image. The code encodes monkey images in a embedding space. The webcame takes input in real time and compares with the monkey-data, showing the most similar monkey mood instantly.
 
 Use ESC to close windows and number 1-10 to reward the model when it matches the monkey mood correctly. The rewards are persistent, so customize carefully.
